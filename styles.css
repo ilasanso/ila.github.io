@@ -2,8 +2,15 @@ header {
   text-align: center;
   background-image: url(http://www.toolboxoffice.it/wp-content/uploads/design-engineers-thumb.png);
   background-size: cover;
+  background-position: -10px;
   
 }
+
+img {
+  margin: 100px 0px 0px 0px;
+  border: 7px solid white;
+  border-radius: 20px;
+  }
 
 body {
   color: white;
@@ -14,7 +21,7 @@ body {
 
 ul {
   padding: 0px;
-  background: teal;
+  background: rgb(255, 204, 0);
   background-position: 100px;
 }
 
@@ -40,6 +47,7 @@ p {
 }
 
 h2 {
-  color: teal;
+  color: rgb(204, 0, 102);
  
 }
+
